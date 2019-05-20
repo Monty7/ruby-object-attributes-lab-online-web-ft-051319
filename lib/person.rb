@@ -3,7 +3,7 @@ class Person
     @name = name
   end
   
-  def name=(get_name)
-    @name = get_name
+  def name=(name)
+    @name = name
   end
 end
