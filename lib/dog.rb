@@ -1,5 +1,7 @@
 class Dog
-  
+  def initialize(type)
+    @type
+  end
   
   def breed(type)
     @get_type
