@@ -16,7 +16,7 @@ class Dog
     @breed
   end
   
-  def breed=(type)
-    @get_type = type
+  def breed=(breed)
+    @get_type = breed
   end
 end
