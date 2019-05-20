@@ -1,6 +1,6 @@
 class Dog
   def initialize(type)
-    @type
+    @type = type
   end
   
   def breed(type)
